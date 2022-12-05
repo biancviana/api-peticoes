@@ -1,6 +1,6 @@
 # api-peticoes
 Desenvolvimento de uma API para registro e assinatura de petições para a disciplina de DSW, utilizando MongoDB como banco de dados e Vercel para deployment.
-* Você pode acessar aqui: https://api-peticoes.vercel.app/api/peticoes
+* Você pode acessar aqui: api-peticoes.vercel.app
 
 <br>
 
