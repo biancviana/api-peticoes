@@ -11,7 +11,7 @@ Desenvolvimento de uma API para registro e assinatura de petições para a disci
   
 ### Para adicionar, editar, deletar e até assinar uma petição, o usuário precisa estar autenticado, utilizando JWT:
 #### Ao realizar o login, é gerado um token. Esse token, passado na header, irá possibilitar que as rotas seguras sejam acessadas.
-  * [ROTA SEGURA] Adicionar uma petição - POST '/api/authUser'
+  * [ROTA SEGURA] Autenticar um usuário - POST '/api/authUser'
   
   
  ### Agora sim, depois de autenticado, é possível acessar as seguintes rotas seguras:  
