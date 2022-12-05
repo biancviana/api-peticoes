@@ -2,15 +2,16 @@
     "name": "api-peticoes",
     "version": 2,
     "public": true,
-    "builds": {
-        "src": "index.js",
-        "use": "@vercel/node"
-    },
+    "builds": [
+        {
+            "src": "index.js",
+            "use": "@vercel/node"
+        }
+    ],
     "routes": [
         {
             "src": "index.js",
-            "dest": "index.js" 
+            "dest": "index.js"
         }
     ]
-
 }
