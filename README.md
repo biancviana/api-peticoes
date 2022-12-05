@@ -18,4 +18,4 @@ Desenvolvimento de uma API para registro e assinatura de petições para a disci
   * [ROTA SEGURA] Adicionar uma petição - POST '/api/peticoes'
   * [ROTA SEGURA] Editar uma petição por ID - PUT '/api/peticoes/:id'
   * [ROTA SEGURA] Deletar uma petição por ID - DELETE '/api/peticoes/:id'
-  * [ROTA SEGURA] Assinar uma petição por ID - DELETE '/api/signPeticoes/:id'
+  * [ROTA SEGURA] Assinar uma petição por ID - POST '/api/signPeticoes/:id'
